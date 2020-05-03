@@ -1,0 +1,6 @@
+com\sap\conference\service\SpeakerService.class
+com\sap\conference\repository\HibernateSpeakerRepositoryImpl.class
+com\sap\conference\Application.class
+com\sap\conference\repository\SpeakerRepository.class
+com\sap\conference\service\SpeakerServiceImpl.class
+com\sap\conference\model\Speaker.class
