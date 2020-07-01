@@ -1,0 +1,6 @@
+This dependency is used for using JSP as view
+<dependency>
+    <groupId>org.apache.tomcat.embed</groupId>
+    <artifactId>tomcat-embed-jasper</artifactId>
+    <version>9.0.35</version>
+</dependency>
